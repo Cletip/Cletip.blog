@@ -11,9 +11,9 @@ git commit -m "$commit"
 
 git push origin master
 
-hugo -d ../<Cletip.github.io>
+hugo -d ../Cletip.github.io
 
-cd ../<Cletip.github.io>
+cd ../Cletip.github.io
 
 git add .
 
